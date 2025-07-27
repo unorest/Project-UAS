@@ -1,0 +1,29 @@
+/* Umum */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fdfdfd;
+  color: #333;
+}
+header {
+  background: linear-gradient(to right, #74ebd5, #ACB6E5);
+  color: #003366;
+  padding: 40px 0;
+  text-align: center;
+}
+.navbar-nav .nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+#destinasi img {
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.media-player {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+footer {
+  font-size: 0.9rem;
+}
